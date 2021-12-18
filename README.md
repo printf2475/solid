@@ -8,7 +8,8 @@
 
 - 코인 API 데이터를 비동기로 화면에 출력
 - 그래프 API 사용
-- 코인 매도/매수 DB연동
+- 코인 매도/매수 DB연동![146633951-2d701b52-a8ed-425b-9880-edce1abbc46d](https://user-images.githubusercontent.com/80373743/146633957-12f81640-4d12-4923-9380-b067d3ac9c5f.png)
+
 - 코인 리스트(코인 이름, 코인 가격, 전일 대비 상승률, 24시간 거래량)를 코인 API에서 받아와 화면에 출력
 - Solid APP을 위한 거래소 화면 제작 (반응형 웹)
 
@@ -22,76 +23,68 @@
 
 ### 메인
 
-![메인.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e431bea4-98a0-4825-aff5-305a01e0389e/메인.png)
+![image](https://user-images.githubusercontent.com/80373743/146633864-2860c716-aff5-40d1-a34c-e49778425134.png)
 
 ### 로그인
 
-![로그인.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7064c593-0066-4cc8-a9f3-00c279bd513b/로그인.png)
+![image](https://user-images.githubusercontent.com/80373743/146633888-b0d446b9-5a68-48e8-95d2-b7b342c0d388.png)
 
 ### 회원가입
 
-![회원가입.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dd84ce2-d9df-4da5-a617-d6b4baebf4bd/회원가입.png)
+![image](https://user-images.githubusercontent.com/80373743/146633893-cd9fa68e-d765-49ae-a295-a711b18bd65c.png)
 
 ### 내정보 수정
 
-![내정보수정.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0d2ef69-30b8-48cc-b896-e4f4785aff46/내정보수정.png)
+![image](https://user-images.githubusercontent.com/80373743/146633896-551ecbd2-513d-4bf2-bcd0-17fa73a9607f.png)
 
 ### 공지사항
 
-![공지사항.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f91b12c-412e-4842-b7ab-d68925c47d45/공지사항.png)
+![image](https://user-images.githubusercontent.com/80373743/146633903-72dedc8e-2412-40d4-9243-df7ec54772da.png)
 
 ### 공지사항 작성
 
-![공지사항 등럭.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da7e7ca7-18a1-4778-a940-b264e7931512/공지사항_등럭.png)
+![image](https://user-images.githubusercontent.com/80373743/146633908-0136c009-2ac5-4c04-8506-bd18d6038f7d.png)
 
 ### 공지사항 보기
 
-![공지사항 내용.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c426eada-c8ea-457b-bbd6-a9359579247b/공지사항_내용.png)
+![image](https://user-images.githubusercontent.com/80373743/146633914-73cf5646-345b-4725-9094-7896899be784.png)
 
 ### 1 대 1 문의
 
-![1대1문의.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ca8ca2b-056f-4b06-b062-e9c0143056cb/1대1문의.png)
+![image](https://user-images.githubusercontent.com/80373743/146633918-5f15e976-cc79-4e63-9f4f-9fa32f3489fd.png)
 
 ### 1 대 1 문의 내용
 
-![1대1문의 내용.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/976b1bb0-0fdf-476b-a320-15ca55a7f42a/1대1문의_내용.png)
+![image](https://user-images.githubusercontent.com/80373743/146633920-aeec048c-b96b-4543-bc11-c84d98418ba7.png)
 
 ### 1 대 1 수정
 
-![1대1문의 수정.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce9839eb-ce57-4f42-bdcf-88f557e92b0e/1대1문의_수정.png)
+![image](https://user-images.githubusercontent.com/80373743/146633922-ce4e0ae9-25bb-4b83-817d-2d13d6c501d7.png)
 
 ### 코인 거래소
 
-![코인.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ce2dc11-faf4-43b3-972a-9c50eb19dd7c/코인.png)
+![image](https://user-images.githubusercontent.com/80373743/146633929-9afcbe1e-335c-47dd-aa53-9ec798ab1e4e.png)
 
 ### 코인 거래소 리스트
 
-![거래소.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f97ad2de-8579-40b1-9d31-fe103919c562/거래소.png)
+![image](https://user-images.githubusercontent.com/80373743/146633926-cbd68db0-8982-4332-8a7c-33bf2fb83876.png)
 
 ### 거래 내역
 
-![거래내역.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/979d0b52-ab42-40a7-840f-daa82057fd05/거래내역.png)
+![image](https://user-images.githubusercontent.com/80373743/146633936-2e717c1b-4a6b-496d-947a-a1bd08a0d6e9.png)
 
 ### 내 자산
 
-![KakaoTalk_20211208_172508326.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/afd80e77-586a-4411-b899-06c6d56f53a7/KakaoTalk_20211208_172508326.png)
+![image](https://user-images.githubusercontent.com/80373743/146633939-a274fab6-fd10-46fe-885e-bbc84ccff16e.png)
 
 ### 포인트 구매
 
-![포인트구매.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/438132d7-2404-4585-88b5-c88e26cefe97/포인트구매.png)
-
-![포인트결제.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f475723-010b-4934-b75e-54867d7c4860/포인트결제.png)
+![image](https://user-images.githubusercontent.com/80373743/146633947-2b975344-4493-43e8-ace8-04502fae276c.png)
 
 ### 카카오 결제
 
-![카카오결제api.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/924a6d5c-d947-421d-aaea-24077e505a48/카카오결제api.png)
-
-![카카오결제QR.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/794d51fb-13a3-4ae2-9262-c909a15f483a/카카오결제QR.png)
+![image](https://user-images.githubusercontent.com/80373743/146633951-2d701b52-a8ed-425b-9880-edce1abbc46d.png)
 
 ### 쪽지함
 
-![쪽지 받기.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4b80432-29e9-4877-9b55-15c3b12f9f4b/쪽지_받기.png)
-
-![보낸쪽지.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0aebf4e0-e16f-4e35-8f02-96e265d3d0cc/보낸쪽지.png)
-
-![쪽지보내기.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9092a6ec-ff7c-48d3-87da-143a19fc35ff/쪽지보내기.png)
+![image](https://user-images.githubusercontent.com/80373743/146633954-50cd0efc-e8e6-4254-9980-cf017aa34dcb.png)
